@@ -5,7 +5,7 @@ Compatible with IP version 4
 
 Other Useful features
 > Binary Conversion
-> Route Summarization
+ and Route Summarization
 
 Required Modules:
 netaddr , ipcalc , tkinter, ipaddress
